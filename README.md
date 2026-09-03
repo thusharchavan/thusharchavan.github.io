@@ -1,2 +1,2 @@
-# tushar-chavan.github.io
+# thusharchavan.github.io
 My portfolio website 
